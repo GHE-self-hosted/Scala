@@ -1,8 +1,8 @@
-val PureConfigVersion = "0.17.0"
-val EnumeratumVersion = "1.7.0"
-val LogbackVersion    = "1.2.6"
-val ScalaTestVersion  = "3.2.10"
-val FlexmarkVersion   = "0.62.2"
+val PureConfigVersion = "0.17.10"
+val EnumeratumVersion = "1.9.7"
+val LogbackVersion    = "1.5.32"
+val ScalaTestVersion  = "3.2.20"
+val FlexmarkVersion   = "0.64.8"
 
 scalafmtOnCompile := true
 
